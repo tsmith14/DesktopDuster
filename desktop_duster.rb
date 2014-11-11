@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 #
-# desktop_cleanup.rb
+# desktop_duster.rb
 # Script to loop through desktop files and sort them
 # Created By: Tyler Smith
 # Date: November 10th, 2014
 #
-# Usage: sudo ruby desktop_cleanup.rb
+# Usage: sudo ruby desktop_duster.rb
 #   Note: Sudo doesn't have to be used, but if a file is protected, script will crash due to permission error
 #
 # TODO: Add more sorting criteria for different destination folders
